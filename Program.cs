@@ -180,6 +180,7 @@ namespace lab1_10questions
                     commons.Add(item);
             }
             Console.WriteLine("Common Elements: " + string.Join(", ", commons));
+            Console.WriteLine("all done");
         }
     }
 }
